@@ -1,0 +1,51 @@
+type: output
+files:
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: c6bKMJyroVfSILGA+8Cvp4YXyLeTMSKfD4CyQIJfz67bMebnt5zUU2IlcNZDahk6
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: c6bKMJyroVfSILGA+8Cvp4YXyLeTMSKfD4CyQIJfz67bMebnt5zUU2IlcNZDahk6
+  learner_created: false
+- name: comments.py
+  visible: true
+  placeholders:
+  - offset: 148
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 148
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: c6bKMJyroVfSILGA+8CvpzLWAKCMlXFpQ4x1DokiKUE=
+  - offset: 263
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 263
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: dfOjqzK/MNus0fxG/1Psow==
+  - offset: 301
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 301
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: UMPSgnWo391J1zYjtVZlviDiqa2b3j1VIgeZQdf9IfI=
+  encrypted_text: eferBCJRUpIZ4ayufvWxuWrBZmK6TKQctwAe5ytqCnmsEOicvzXLNXqNo0iVNZkU87gih3wng+lSL9oCcg4VkTKIBFUtGuf6dNHf5Jq31xLPFsYsurU56smFMbEtk7CW+qdaelEaZcdR1PH3VFngOK7Nmi/F7huy1eYjDGro5ARfEj4D6Iuq3VF/9B8c6VOhyJ6cV5Sn2Ps4W5LY+vWBNX25xXcog5x9iNZ96aIqBXDHbSvc62xE+wQA+BzBORyXRqZHUo/Tl0mZ0e3eHRLXvFPixSqfG8jut5wgwV/f4gCKgu819OAbSpiZNwGTQg6Bi3slrY0bu4iFhCbZGet/pSUg/THGX2s6mLMThDnaVKm67cZX4Grmjosxl/Zy9e93LoqfReczN5SyZo2/c8HNTBlwVqglCpxHTmwAfhnxj8Q=
+  learner_created: false
+status: Unchecked
+record: -1

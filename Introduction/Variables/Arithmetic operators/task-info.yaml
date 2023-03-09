@@ -1,0 +1,61 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: QDIutMSbZSEW07yA23SRUD2082ksZRedIkCkdPNZVyQ=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: arithmetic_operators.py
+  visible: true
+  placeholders:
+  - offset: 119
+    length: 15
+    placeholder_text: division_result
+    initial_state:
+      length: 15
+      offset: 119
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: E3MI2Rw87UN9gPjoKvbVxP38aPMgtD2htLn4fJ3RtEM=
+  - offset: 526
+    length: 1
+    placeholder_text: /
+    initial_state:
+      length: 1
+      offset: 526
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 609
+    length: 1
+    placeholder_text: '*'
+    initial_state:
+      length: 1
+      offset: 609
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: RXgyNTq0jNnFDBjGTN+Mtg==
+  - offset: 687
+    length: 44
+    placeholder_text: subtraction_result+floor_result+power_result
+    initial_state:
+      length: 44
+      offset: 687
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: J/Xqat2C6y8uCINRdfLgRDPY5HwBG2/vU9joSTLslei2sOtsg62OJhILtNVsYL7ZS2fAuK8P3xGphMUnY5zPjw==
+  encrypted_text: hfbkELl8Xo1LId/aahgBqBoB6nAH3udqvuXjgK/DTg4Dga+JiEhlKs5MgAo38Or+f0FQKxS86uIjrGkmayw7BlF4UzOtwju2rp1qK6nZ0onhHSTeYK2EQjne+ODyxcsLJCRlKatnQuAKzu+yKZJN1JIjb/FPwRzTOh7aKt+m+ENq2uKB3APsOMxFc0LJRaRjENqvmRnpVxq1tmM36wW0Vx3FEdTE4Gylo6PNa6vuaOCK5IZk92PMklrKGkQJ1+roZu/2P6XbDAeF4RDohmGooqDQHQxbfQuyKb0kpTBWCKAfVc0JRxoTH8h6QXMCj41xt3uDvgG5AIu3aYD5gPJ+HVDjBu7FGKORjHyfGLh/od8HDudG+ZHj211I6ZeyGNLVit9JbWCKxUmnPDzvijCW6iSw7mnyIZEp2YyNs7gZlFLesym+VzFiyZ0gxakb4B/FjKY6jXMTH1QU61nEWIZcAXGFDUeS7dMVFQm/J64EKhgdeB8bkKiZsWnFgN62zkr6sbnNo1WdtsdZwHImyVm7J+dQAzzpuHtbvX3nyuE2GnHDXQ0DVuLArw9uEqfJSknCrogN9H5ihUGE2NRPJR4lekxv6RynoRwj5Yi0E9R8aDIkPx/OyzgCBoSJapF1iTrPYsw3lWdbmk8OBgZlR4HPTGZQEB9A6RJbNyMnjl6Z/p/rS6kEboQH2zy2n4wb0Q35Q8EeibKrv6GwZOYab0rnAIqwmefDXcG+PnnNvrd6xRkGwBE4VgVmLbR/ta2vIFRcDUAGfq5Js/STPNRyP6q3t8WMSMUOe82lC8KC+3yk2RaZnu1ZouZxksI7V+4tBkVgpjVuY/1QjNznGjdwCwMef2cuvO3CP95AEmRf6itbqSh0IGoVxcxgNXkJ716yz6w3EDmxJdj39B9XHblbKK8F06dN0erM7p0de/LG7gsTwPbaYKXT6t7Zb4SWVaImloTU1aI3ng/tJGJWhz+3I3e3qg==
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: QDIutMSbZSEW07yA23SRUD2082ksZRedIkCkdPNZVyQ=
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,71 @@
+type: edu
+files:
+- name: tests/test_vars.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUL7aR8p/B/NVC9K2/TYHAXKviw3nsze2oVbcicxJBBs4oLD6qn7QeJhhCZMqDPCsMSzRnvCUWHqB6LjuCx2PS+Ca2YwgZVxw77vv1+5nXe8CJ/j2zzMu/lhe8bxB6fJGLyMlncRk6BzTxH+KYv8NuUet6OW07wNXfp19rAmO9OCx0pMuZXrwOBjO1UKduyyyvRDvyaFIAb8gWxdj4MGz7EH5qGpBJ6w+rU+Br9p6NII4Rlflol513ObhOKyc7KF6GPu2N7iPkMRwQhoKRI8wT+3PFE+Ipat2WykYvo82J5++cc0WqWb1KYrTTd1Z52lnzm3dCH27TInhPVbYRW6798CZbhkviiwuxuj4ss5ehv8af07U6o3/hRVwWWD7AU4IjdZZLGddtc1F2m6y5EQRXtFrkIrRp5BtRvJ8RpQTNxH
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: variable_definition.py
+  visible: true
+  placeholders:
+  - offset: 84
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 84
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
+  - offset: 210
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 210
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
+  - offset: 317
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 317
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
+  - offset: 481
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 481
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
+  - offset: 507
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 507
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
+  encrypted_text: z1jP1/kFa051HwKLwq4yigEftd9JSRjPOpwYa4IfbPY9eydCprf2YW0h+H/8KomrKEL/4UXZ35wLK6jYp3FiwWPj41EYLVaolima4K96UWvKoMtRj8zGxCSHma1yypJA6kZtR/lggAF/JvxbT8JmI6O0RtW4LHwQ9JMzE8oLJknbZsub4VPy3pn5e2ROrZ5p+5YvawH3zJgwL2bpNOR5g3JcXbdttP0U2N1ZkzjF5IeAbMfriEz/idESzPbKvBj4XG1fFfNxtcDn6MMejWuoX50NHAbMqR+JU1NLecWeeQAgPf0QMS0h3FuDyle4u9iX7KWCZf8ZM1RgJEYOIcj4+6tJ2Ni6f4uy14OQqmoUGdbCk+RRsnk5LCb2a6KwiJSP1vh7Ud8E4hOZ83LAUa304vDql3QnP0GH1vkQhS/3wNY8/IOW5IdTBYNHXl9lzjumCBKHeC2Gr10eCKHrqb2knNBpqGlJiExnCwIapTw9q2nJUUCbbh/1BobViITy9/A5vdyIvQXOWUxOPgR3gmeYqU5YHExaN+N/vILiS+h91hbb11RtmIWw7Va1jbUyQ4wiQPe6CRomnBYe9DWahA9mB6sh/RVq0pGMy19FnX1WY+7Oxp8qFXNBAwJNiCBlLfZjvc/Ba0/mO5rRQhDMHclwL2PNX5VWAt5945PMqsOnP6yUOyRsh1Y8TKpNGrwXipCM
+  learner_created: false
+status: Unchecked
+record: -1

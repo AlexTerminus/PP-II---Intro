@@ -1,0 +1,51 @@
+type: edu
+files:
+- name: tests/ask_test.py
+  visible: false
+  encrypted_text: lFHY3FQvVnYAEBl1EjB3dtyw+h8b4TXPoKpHfqfKEqfVA1XfkbqwuEKWalVpdyl3QHWoSGL32LXk/JOmTgf6EOWl9bmksYoyIvbjTBRMN23b1BWmBFjbn/NT7mrrpZc78pZEZOL5I9R4Sr0y7W3LcvEZQkrHL2dNa4oGXY0udKUZjE6Hw5N/ERbWE1U5d1O7rr96EsX/QATKdyWkUhzR9m7mY+q1aOOy+ITSDrJpjLvAlck9bNECdcuu+uPvYYqSgEb8l+H0fbJTyBnIHefN1UFjlRoAsUSllrrJ5cFBl+90D1qM4s5bztzelh9zC9e/56Urj1ZVDeRZkQNIPGYAMbNUdCv7jT2WPCYE8h4iDIwl4mMcKJA/tQEYNibngzYdDxwtgVkMVqbu7CBFApRD83ZtDpEOCidgff01VzdLdbuqFamPHtZjIIiWPezO+ymEcT0lPX7zd8pJ0i4OrS+lzNy768A/xh7D3DxgwYLNFNUpY3PWimgDRWcuTWte1RsfuBtn+Y7Yq5wf1h9Xfjkd4EKmNdQnGtsDQ5f8Sm42V5HxcziyDWolx0N9cgWGSpsBfE7LQ/8whVLeWkEEj4oMHqHzy7OwiYRoA3bbcz6K62XaKAGfh9i3FBkXH1CHgUsnV3iFgCh7cMX+dJHaMzfEGw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: ask.py
+  visible: true
+  placeholders:
+  - offset: 41
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 41
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: YPegvFRNe4F/kLt8a3bBTg==
+  - offset: 93
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 93
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: YPegvFRNe4F/kLt8a3bBTg==
+  - offset: 151
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 151
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: YPegvFRNe4F/kLt8a3bBTg==
+  encrypted_text: 3idp9/GeSBH4qrLsQXdKbCQ5PYtTG2MxGBuNgzFVANceyHysIDgNbVHBEVQp//jXqzcxYM6t74iDbcNPdE+oUC9k/XEn2akTKUFXmmmXkddX10ChTN5Uq5lMQfcYCq4wwj2VowEryvFGtlm7mLJa26tGH3XkaWBLpezmBamNMKdfSA6WcyTLgQxRBbxj7gLu/LW5zKjGw69HRtQdObip8ZAhDtp9oxPNOMFzWUDEEj/skF9niJStHd+d+2J18zY4iV+Kav6L4LKutG1EAnq03LQGI2oZGlgMl6xufRu5+Ot3IAlnUHKlX3rkCZLPZviv
+  learner_created: false
+status: Unchecked
+record: -1

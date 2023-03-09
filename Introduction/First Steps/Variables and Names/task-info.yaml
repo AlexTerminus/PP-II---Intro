@@ -1,0 +1,23 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: rxEHKfqRPaYzMMSISiBePRYQsnOCWtFwanp5aByHTmpWMe433U6eJRcAAZ5N4rewucRWIKA3k64KzJ1tcRbFVH1pMMpDD9N4UyFyhbSFpn+9XfXuMmp7+I/Gk02le9PVexU3vy6rJ6JBwk/r71OKpYXyY96W2uA5BedXy4Id/fAkoMtaUO0jaPKq0bnU6E/ivgvoidirxPPvttMVsFIZRgELdZO60yzgb9XXTIiYob8OYYKwG0x5Gvf47bzW4EyolejRB7QFdhxo6jNb15fyxw==
+  learner_created: false
+- name: var_name.py
+  visible: true
+  encrypted_text: eferBCJRUpIZ4ayufvWxubE93khlOoFPTWnWtEdSPNM5wZwuAb+F2IyOlWoc7LLlMXUmAXAud7Ci6rHGlyZLE165FhKXplD5yTznV6vQC4Ozyearr+obvEiGrE9xIqSBiIkYZcdeTa9TsT6AC4JvVTS7FHwcXHE4kaChddfzptuqplTQiHAJc+xJBfkZPWWuEd1ltf5O2c5OpFVXsVxNxKMtOhoNh6+QPiMpftqjn2Bhr6FlrOuJ8s6WQZGWcwcfMvvcfxzIk+7sq2ishXORLIlafAYZJ4oUFwKM6/G3GQVF3+f8BdNqY11ffwVwkHsAQt+H6WqWbOMbLDwgBg5yx+bFp1sI2O5ZGU5jI6FW1svK3i6+5WVpN71XvMcH5L4f2qCpzYuPg18f1F6jmHbN8ME+AdJRNQpKa4KCInSkPgNJPO0B3m/eskYAK/jeI34WRAvtHHR9aXixWU4IVFKlsXUnq83pB8HnPix1D4nIm2djbbXdDKSNtuZ2wHpV4dsPW4n3HTcE7/HYfyi6bztu+Uzx6c/7bNvq3MoL2v2HHSXUMrsgAFp5eXh1dCbrxSRmmatGnVmPB9xSI96RIHpe46n2axiqc2I5jOI5yVN8WHXoivA9cfwuEAMN4DiXhSgZZHCoUoceLeVt7P0IYmlT+hA0l8JKlhFrHH1WMTNLfYsa/+p68ZEjifcntvawCctr8qk06rSHqRFX/QdTsq/Ckil6I7Z0vcieZ/jtoqdaKxpW0PKTG0h7AwmW0GwMvkiI+X22GlXLvaYFjNzMnUGeziT5UnkGMzrIM12hacVbqr9ak1me6vUTN9nYAT10qcXYwQdCwIZ8kq6uwkFv9qNkyXBrVKkKkeL+R6ZZDOb8DPc=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: rxEHKfqRPaYzMMSISiBePRYQsnOCWtFwanp5aByHTmpWMe433U6eJRcAAZ5N4rewucRWIKA3k64KzJ1tcRbFVH1pMMpDD9N4UyFyhbSFpn+9XfXuMmp7+I/Gk02le9PVexU3vy6rJ6JBwk/r71OKpYXyY96W2uA5BedXy4Id/fAkoMtaUO0jaPKq0bnU6E/ivgvoidirxPPvttMVsFIZRgELdZO60yzgb9XXTIiYob8OYYKwG0x5Gvf47bzW4EyolejRB7QFdhxo6jNb15fyxw==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 09 Mar 2023 07:52:48 UTC"
+record: -1

@@ -1,0 +1,111 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: GeboghhNv91Vkg9FFiwb6il/3jBNLSeayLtJ3fJQu4VAc5Op+h3Tvdm5vGJyzWABefhhoLKTpVlF/44zVm82985KZwjlrjdaulfuZbgGy/ZpBQIYWxyJsMR4YXMGvlPksriyvG6hkycZrmjm5CSYnev1ydnyo3vrOykWn5OAiUHLl7BEamrMRtWBPfqcxCa34Zq61Hifoj9teoJuO134Ue4ylq04ClbFGzftH8J5Iny7dPcU59LC5y5MCul9SPLsZyvbDQq0V+UXSveYgt1urvTPe4MHY3KW8Lnjvy9av3PwNLE0nXZXzU91Ypjpdlzinjgewe4cIE8G0xfSMARSXr8ksuwFClwKpxFGyHD8aaC0GTI+JUoYCynWkbjn0jk+
+  learner_created: false
+- name: numbers.py
+  visible: true
+  placeholders:
+  - offset: 37
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 37
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 70zQrj2qDppa5sBq3V5bdTkmiuM4XLjwB8hfssXc4lY=
+  - offset: 65
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 65
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 7PKtl4l1nZ0iMbmJg3vjQg==
+  - offset: 102
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 102
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 3etmF8LJ5WTh3phoMzu9+w==
+  - offset: 168
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 168
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 3etmF8LJ5WTh3phoMzu9+w==
+  - offset: 184
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 184
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: QJMa+3uBS3Qy5s7v9r2doVFD6rcZoLi4fuseAMlvKcOnZHCmYdtf7gFJ5XuK2MGY
+  - offset: 278
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 278
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: X5ZsFVlcxKLmjpDO5yT+EF5pFEdfEF0i0juF2aJz6TVAm36aBWm9NofkgXaiBCkP
+  - offset: 345
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 345
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: oJDDffBu7rvhx9dGyNIACA==
+  - offset: 390
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 390
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: yH+5nXNBM/Ear+rcq1NixA==
+  - offset: 433
+    length: 3
+    placeholder_text: ???
+    initial_state:
+      length: 3
+      offset: 433
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: W9IShlvIjO4a/pNMhZhDbQ==
+  encrypted_text: eferBCJRUpIZ4ayufvWxuSzxvyxK+MoYXDHuKgRndPy1XTqusSI4oIxfn6uTTFnWh1YMmixype/4KROvkjaARX28hDqobDbg+6wkNOM/dCrrhzOQ/kQbojZGRj9kVTFtkqQXP0RQsnDqnvv3nuMJZLysfJU4x4bn/7F7aaBzI6cqFNUTL6dQ85hI6W9noyoADrotZ+CKwga5LBHBsB77j2GPNnph98/LRQOToDpprloM7L53Kw9l+0SU2MhrUsX7NzxtFEImV/mI5NWX/Gst+Sf3zT7eO8FPfk3aFMwNeg4tbX5bz4aGnFTwwpvcyPELtNjczKKab6dBm1VSXLTuEhLOGV4DMVnJktHQhclv7Kh5EmRKrFy+UxaudQWhyDRBVfBc31lbD5YIj/X0fBfh+RHYrRjuSyGEDVHpSqsf4Y9m+yOWm7dWGJCHJLHU03FVqheE7ONLAaWs82ukunom6smwZ8jUhOnWSVMZwH1zP/N55OTZyWMG/LACq4nS3DRhiIkjM+8+ppYnN8bltY66Rxa+R9Az2ahCBl2OG+q+lCHznYLgNZVEA38MuEhn/zWAg1TmFM6GZXNSoyBClWuzWw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: GeboghhNv91Vkg9FFiwb6il/3jBNLSeayLtJ3fJQu4VAc5Op+h3Tvdm5vGJyzWABefhhoLKTpVlF/44zVm82985KZwjlrjdaulfuZbgGy/ZpBQIYWxyJsMR4YXMGvlPksriyvG6hkycZrmjm5CSYnev1ydnyo3vrOykWn5OAiUHLl7BEamrMRtWBPfqcxCa34Zq61Hifoj9teoJuO134Ue4ylq04ClbFGzftH8J5Iny7dPcU59LC5y5MCul9SPLsZyvbDQq0V+UXSveYgt1urvTPe4MHY3KW8Lnjvy9av3PwNLE0nXZXzU91Ypjpdlzinjgewe4cIE8G0xfSMARSXr8ksuwFClwKpxFGyHD8aaC0GTI+JUoYCynWkbjn0jk+
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,31 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 27
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 27
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: FsyqTT9DDqN3WQDc8BUGSWVZajAMNMhrmgXFNfB5yjxNoFrU6NF3RgjjTwbhlnkvZ+I49drf10th/aI/XH9pw8stKglIMDrIMr4F+ACchlAEClt4qu1WakM3Oq7WJhnqzpHZ24zHpqwscTiwGJDQduAzbsY/j2f8qExSPT2E/Mi5bmRNqyFYpLwILUdSHdy3
+  encrypted_text: ckkJYCdvhtLpx8+EqgQkmZayE2BTxPtyS50bqqiMqWpPdwzOwbU6BTVCd7p7qQd1
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: d30iRzdAO9KfRXY4tECupLOA0tSdIsDLAX3J52F0NtrZue9ssjTvGY5LSECnOqZvmLKbqo0Pa1NmlEaivo1//Vea82F5ztVJhhtxElakXx6LzvzEPvfvh8cyCd0B7smq3Lc1GMg/8Et/yCxt4IPllKk6nf51z3Fil7wR6HUtE+SLOA81BNqyDPSbHn6n1CDxVNP7CwNrTIFP4UPFxE0YFtL5MNRHGvz0e0qNvPinn3lnvbdeat/dNKUi/wbmuVD6ejk7YdD1vqhnqT6l5vKE29ICFwOtjX8bXsRA7wlWXa6/7CKv4MXAEmOTq0MWZBWku5y/cTsV+jS/UVoKPFjX7ZDBrSvkTEr4Oh8hVnY/drk+fYgKgyDhuxyxomcpAY/2m18Q9HWNr1tALCrAMF/iWAwQy3F1JywOHe8+1AVPesdzCSLAtUZGswUWinLT5k6QpWGkMQAJmy7hTuzQ8MpyIUsvGR5kdrSejtGjIfzlum9CiQwYQGY3E4/cfXhs85no6E4n4ctkOr6MOAXj3aE/1EfnR7n2FyWHJygMg3jQB+gFfZGrfGJ8RoztURvXPQbzaA6gpUzjN33Vnw6GTpcZFILJ86t6ClVeDOoQEhr8qBKw88xU2Zwuug/8YBrcgChqRyzIqwqFJPa/4hxqZfi5h1IWYa/hgIphZYrMKo5Inslv/kAtPstQLiuMUnIFjutsJ1MMX6o2xxu4xRQssOxMyAJCUoMq1b55Tw9WFw9yiLzQ+gyz6dxbG5A+Ezu/TQe19i2A33lLXU4Ck1/gC3xA03OH3LsM6fayhWC3pdokPNKFYUH/dUBU9QDsQxDxiK2hRiBB14LFpBnkiLrxaddP+KpEatJR2KCZxWGbZdhQEKNHDBdMZHHtPvcUEALiW+s0G0GpNTHDcAN5Mtvoy6bK/LCj3ui05pklYK7g90rIJ2m6W+GoV33Daxs3Jdpkesmw83vmygdmiZhf3KlsYSbk/Je4A56gVqjnS166tda1tzNAgaQAs4gNc8+pYzCQQM8enyJe+QqRtvlq7JdzH4Y6Zq0mCEqj3zNMpov7k+wnoR+55BwRsLp/4oqEH1TKXFE8HVq96PVX30zQqulmaIeahDNj1AGCjj3yLUfmSezV+iQHVS8kRT+ptub82aybwLVHYFd5d1GVbL4sCmrPdPMTUIQAFAFO9Tsitsoxi5/w5K4dOjuS6OqNo5ovZhlCM4t+i3D/LjEQliAhs0JhqdSBMzzXBSvV3ncZSK8jp8+GGx0ucI2VWgADGz71oCVcW9L0XILV+fUs0+9rKiTNAoeaBabMUxPSCfpCmBlYHRgdQyUUaa3BiOjhCQJ3Quq1fmPSLtrx9g+pk25pwGOKo8JbU3wf/57gSHkO1zgvUVIKxxQap0mFjnFaMLxKW048sdd5
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

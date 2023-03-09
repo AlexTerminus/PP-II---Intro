@@ -1,0 +1,54 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: CgVxD7f0MBv36iPurd6Z3My6oNWPHzok0viAyaEPQr0nMc9mXtulcpHGJTLhods0Hpno4SHSJ2IcMnLk749vAqbSE8H2hvT4yUNzRbPc6pVSN1RSb5M1IHXbmw8CAGuQ7CKr+n62Mny47CCMaosFig==
+  learner_created: false
+- name: print_escape.py
+  visible: true
+  placeholders:
+  - offset: 231
+    length: 5
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 231
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: P479baX0n9ze/a6DUKhGaQ==
+  - offset: 252
+    length: 7
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 253
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: j4mNmShmUEjO5BetrncIDw==
+  - offset: 275
+    length: 9
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 275
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: CYvfhkv1ZH4x3zB6VD54Ig==
+  encrypted_text: eferBCJRUpIZ4ayufvWxub2/F82thTzVjDJB7JyerxpNv9tfX9Gp2DorG8s+v4PdV1aBHZZf+aQGB94D4GrphxjuwecpP2ZGBIMEolx3zOb8TVzyZwmTRnCV1oXOYX09BagMOvXKPDAvAipBckTcfjdsqKw1Da8gsPsJ4wjq42vMGd3AYtSdv8D5oe1Lm1B+7OjRE8U6cnfUol06mDMOtzFtKVxvOYkP5bv//DsA3fS/NCYqAemPaN1n24cOSLK5V1dkHWr3fxmnmxMHYTaVYz8InAN3pvIAAACj2XIhu0RcOf2HJviZRV8IvboedMWuV7ELYhPzRc6YaIlFp2nTMNYSxv3W429fwSukMOLrFYg8rcYH4i4B9G2AF4qb1ocQpvkp6PmOknOe0G9vnderfAKkTvwOa7gnbA8CuZczpK4=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: CgVxD7f0MBv36iPurd6Z3My6oNWPHzok0viAyaEPQr0nMc9mXtulcpHGJTLhods0Hpno4SHSJ2IcMnLk749vAqbSE8H2hvT4yUNzRbPc6pVSN1RSb5M1IHXbmw8CAGuQ7CKr+n62Mny47CCMaosFig==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 09 Mar 2023 07:53:19 UTC"
+record: -1

@@ -1,0 +1,39 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 27
+    length: 294
+    placeholder_text: |-
+      number = input("Please type in a number: ")
+        if number>100
+          print("The number was greater than one hundred")
+          number - 100
+          print("Now its value has decreased by one hundred)
+           print("Its value is now"+ number)
+       print(number + " must be my lucky number!")
+       print("Have a nice day!)
+    initial_state:
+      length: 294
+      offset: 27
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: B6XNh81Ve57kP/nLGB7vyVUg2PRPxcjY9pZFPEB3Axvepr7QvRLRXV7XXQoVYg+2CormKUHjLvPUkUhI1HjyVC6aY/QJOZtU4c0cSCjrm2xGVupUqDPVhEx+tCWoC711J8cxGdmbkIYGiMWkew5djpODag+sVX47TVFKtxb3WIiZFfbvDdo3XW851MqW2DSsqtGRXCrRo82+BjekfWLriaEMJFPpgjbnyk8mEkmP5OC8pyX+ei8VAy/24a51YOS19TnEhAOeARrD0HzZMXOGZ/S61hu5RCJ2h7NWkciK8doUfWTRMDhsiFG8M97F5ITe2aDOzqwElQCyxSlfkIGdvEcx0yRZinlJw9HjIzi9yLvWRBgjHWZnigGgSp/NnFOn3zO7V2uX5O8AktNz8uN0owbpwkoWK47ACYurJhYM3xM=
+  encrypted_text: ckkJYCdvhtLpx8+EqgQkmYXhC+ae0e3GzGFFSWw1RMsSwxPSzLZ0mVxSCx8iQG1Ln+KfXoPehmJV6CheT8A96aGQ+gstgI3UhniP4TA4aj2OUjKicg+MTQkFbf4tqo7qGz6i8oTwTR89TO5w06LrthUZEVJh/mIaxKnU77ffDoaCkuSW14KzqWKLjo0wFV+pIVKBiz7PkRQTSASRSIyG/S/KRUuITTjcmNlfXbMIEfhTlEiUcBRMVFg3hj019377txXjgCm4BN2VRx8d+eKISi2DJP6juHK0qNhZYdFznvgbr7r9r55Cgi1AQHqI+4iKk5EfS6qezP/o2mFGgHnj05T1fA0ckBr9QNRpaAHKWwjWVM0a7K6SNzYcWJ7iG0aRQfvS91h3VKRbMPGeBAtTnSpNWSVC9jYsljDawMGOXtTCNfm9+c2UGyAq1l30IJAY
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: d30iRzdAO9KfRXY4tECupHs3W7e4Mzw9QmGnYpVlQRiH0lv/KeM0/9pvtPGDziF2E7XDOoWiSbrk67PIpLX1fqnXqb8Kc44f95j4iEYHGB9Z/aprV9a6FqLvKFQjNhXXoBJTG3Xh1JWffLx6VDt8ZuhOjZg1pADU8VkHXHN9lYa3klCki60RGeEh37mdUa4a6FjkmGpv7PUexGja1w9Boi0i8ew/oXDmwGkjKhUsFYnQiTfN+LjvxvdrhYCDs0DGEfxcUdAlygnrcpXQBrvwGGta6wflRe57LYUF4BeBcRHREPmSJhYJP+7bvgkn1mmaYV7g1xUHeR1EkC8WvuWNDU2IJh9LstlNrkiiBdpGzn5p/zsBauxOwk2FyLbIMsJmZ593PLlFZQTTgvkJqLacMKOGWl4OR+UxWOJsXvuzVDi+fp/zPlwAvzV5wOvOuCWd+gYI0ZZzGZKv/ceZ5Kbe8fD3mRlFxqOmxj1sbAn8TLYXwHIugPV3PvnagfrPSOVep+CH4YyuA+kc+hwsU1GbOYDaMgBV8RQVPHLRojeCBFbT82875JEgwInFG4sEtV1QpUS6QvL9ZHtfO3u/sq9JpAnJVF/xi6hTOI+fh+No6w7Kd6wBZv/krmVnBWiscYN9nxH8qjuqFRvSOLobCdUKVKHsk9ClvQUNAAiGtteMYGFltH44d5c4HnQkG/ZHFCIOm9fmg4XIqHuMeihwuGSv35ryEislu/oA2dtUfEY5/8XfhTVFgkdtz18YOnRYNuk1Zy6Lg7Dt/kPmHGGpcoXn6SAEGnyOcrdBeJX+GAp5UTlCB0EPtMMTCEIM3xfwvJrhDstUcP4q1i3gxYICJLXkV46E9RgQtvdxvdsj3ALoyvotUpALJNnWrrPxwIbXuE0sf5+5/Q/5yzq2mAduOFphBP3ChajOatGxSDbV19+vpy1Al9mEWeJLKO78M2Ov/Ux9OMSQVFGccJLmd0BMylTTpl8T9cTvrAN6BZXX8G3DMarySW8Hac8Blk4KVSHiqay2VG7fE4CKH+87T+GDolGAzrTNUXUcXTmljoZzoPst1x5l+Y9bSuXCWgVOFjIZnDSUhWsKbzgvTkIWEWPK7ze+LZXul695y+z5nUOKoKaxh6namyBHfG+7WT8pWH4w9WFlZzni2DuDi5nfM9329Bx1+CXn/dQkUNvH778FZ+MZQke7knTvWMjuq/rmYR12N1EZAJhmdYvAbP4lWsbmiJcVB4m+HkVA95vTyzDIxRRYLZhRnNxnLdyVuR8pTFR17fANOPntD5UuB5GR1IXHc2bsywnvbu7HJNtS31qBGDQGL8I4rTA8Txv3yP/AIsGQTBHnwlF9rrwZ2hc9YSczmkLZTQ==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,51 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: TaZFUDEiHb7tDvrtDkrFMeguIroe5/ZXwTdCZZk0gZK3DpAqvZqgI8Dt7xkpSLB027Xzt/5LcWvdmEsY0pbh3Q==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: boolean_operators.py
+  visible: true
+  placeholders:
+  - offset: 34
+    length: 1
+    placeholder_text: =
+    initial_state:
+      length: 1
+      offset: 34
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 7fwRgGhI1XP/fa9HQT0KaQ==
+  - offset: 98
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 98
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: pOFxq+VTymWmt5O+IDuWdQ==
+  - offset: 202
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 202
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 5mQdfUytsGrA4YsWOYVtcA==
+  encrypted_text: rwkLQHficzFtlCEYAIgJC6iE5yzExEMF7jK6026cwJLPVzaHndLlJeXSw5AhpTmRlDLF3lRU6wP6exvFNHlPcJ5X1q2g4KFnrU3qKBAj8MODb51dFHE2AF0fvyr15ES/gHRz2OInF8kElaAcRyfftZeyjn9H6k1Pen+l0UQscixK8elJiM/5lpE7yN2JNYGkFVt6WJeHQcjlvDzTaFeGoDlBMjSuejaBOXvim+pt5sTZiIpE45E0Ku44wwsPyCovxJhbIigl0Slk8N0U4m7CzfNUt1Bl5prr95q38BdGoVTZt2X5GCyMmLU2orvBoz9d3k6A7nzdlJvyuaSkkYHQcKnR+66Vy/h5Ov49Ow6HzQE+MDMEYsqJ4c3BLwCi1T2S2YgqGtJzjPH9TXseHNhreQ==
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: TaZFUDEiHb7tDvrtDkrFMeguIroe5/ZXwTdCZZk0gZK3DpAqvZqgI8Dt7xkpSLB027Xzt/5LcWvdmEsY0pbh3Q==
+  learner_created: false
+status: Unchecked
+record: -1

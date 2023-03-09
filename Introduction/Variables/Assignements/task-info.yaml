@@ -1,0 +1,51 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: zc2SuTO7payMzu9mdQ94F8NahnFYRIjqq95GhugemLiMShSe/Irg//eiHilKPYda
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: assignments.py
+  visible: true
+  placeholders:
+  - offset: 33
+    length: 6
+    placeholder_text: number
+    initial_state:
+      length: 6
+      offset: 33
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 4/xlZWJsARno+PhjIPlG5Q==
+  - offset: 74
+    length: 6
+    placeholder_text: number
+    initial_state:
+      length: 6
+      offset: 74
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 4/xlZWJsARno+PhjIPlG5Q==
+  - offset: 116
+    length: 6
+    placeholder_text: number
+    initial_state:
+      length: 6
+      offset: 116
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 4/xlZWJsARno+PhjIPlG5Q==
+  encrypted_text: WrY/UtV2HT7BQT1l7/ldtieajueWVKVgT1WLJQHyqarwcRF8nNBbhCztZCIHk9Bv+0KlP0hQFqzMv9+079SeauRylCU9B5Z5vm5iqQIwb3cT6NMNTiMzxuBTwf9dDtdYQFdEktWBPwWeQUktHWB65OZK5OuTI19x1MLwq9/aOpQ=
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: zc2SuTO7payMzu9mdQ94F8NahnFYRIjqq95GhugemLiMShSe/Irg//eiHilKPYda
+  learner_created: false
+status: Unchecked
+record: -1

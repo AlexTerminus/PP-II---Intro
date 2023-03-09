@@ -1,0 +1,31 @@
+type: edu
+files:
+- name: tests/unpack_test.py
+  visible: false
+  encrypted_text: lFHY3FQvVnYAEBl1EjB3dr6LAcq9VmKMXMJKLqVMB8zxHySxjqDHP2ZWGmk9dCPHzwDU99h537b4gLO9WersA8d5GU4us8ugqOaHu86NrpI6rRAd/tY7tEOi0oeIedd/dm/q6O7DsNa2HtsA17y/EhflxRnz0C7DQki1zuRDixdkj3GzYCr3uShqyWG0ftliOut7AKqmbzY2w9KQMMvcfJsY47LbHeXHePRpwOQsJSwVqmrEBDf/cM7SAtOzSf3CHQBhOI9U8cWpznRDsOptus0MS8KQ2Etpq7+jvZFpGojwyTFHSx+S9rjYsND2vWtooYOG6c54UQ/3lpRgsgL7g+ycE2gFjhw/AqAPNhza4M/ey7x1xvTE8Kgxt+X3MAjfq5WVMS6o72XJ4gwX/M1Sw2PSURk4tvTX8U+sEdgVp0Xp9BXZgWXJW4bJlavFaCj2c5Q0t+pxz9scQXHbbLcMFXG/HfADvErUF5cwQMUkw9tcbXeLXX3QVtI9QUP6vcSwD6E93X4hIXKM7GtX3HHX3mOPmmjoTDqTD04YwSpGC59PIj5/I5P73prk4h5zWyN1P2thJiZ4m+SPn3uia6KBi8GYbfPJAi6iUXPVIBUn7dFJWDE1A3z0TETpqF01m/CD
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: unpack_arg.py
+  visible: true
+  placeholders:
+  - offset: 21
+    length: 6
+    placeholder_text: '# TODO'
+    initial_state:
+      length: 6
+      offset: 21
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: rJsrUBfAglT2dn07cGPErbv+aBkpTeomaPHIPjY5KUQ=
+  encrypted_text: oLU8QXSjummrHLizkJjEQuswG3m0w2Jg/2ZvGTptyD27p7f6M+UzlrysGA1UtxM3+21/n32vpqNn+kHi9x4znOxSzLg+HGVp1mn7HBFy6TG0iXo9b9DkfLmfDsnOl/dp/RtFzOosPo3F+d7tX3vFqGnWBlGfb6a/Os/+Ry2Vmi9DtQ6g80xZjE68lw6MSjZu47vLka4BxlQm8yQ5uOE7Nsk5Ry/W6A2zzbX3nhDZd65glly5O7KtsglqlhjVo+Ys0i3Gp/XxMiFelWHK23EFbw==
+  learner_created: false
+status: Unchecked
+record: -1

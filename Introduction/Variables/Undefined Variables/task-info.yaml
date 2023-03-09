@@ -1,0 +1,31 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 7fRzWVx+FuKW4qfoU5eAJA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: undefined_variable.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 12
+    placeholder_text: variable = 1
+    initial_state:
+      length: 12
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: QOVTSGX2JCewHS/Ng72kcw==
+  encrypted_text: KzX7+wx/jxHH7OePpIi978CinfT5UatXHAW14Q1BMznI6mErBgm+8gzdWEC+54GnZgmzaUAaQ8tZmzRZbcJjgfvoxBzeJtfU9uEjsgZSWWM=
+  learner_created: false
+- name: tests/latest_output.txt
+  visible: false
+  encrypted_text: 7fRzWVx+FuKW4qfoU5eAJA==
+  learner_created: false
+status: Unchecked
+record: -1
